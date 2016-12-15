@@ -1,5 +1,5 @@
-title:            Site Title
-description:      Describe your website here.
+title:            技术随笔
+description:      记录从事计算机技术方面的学习笔记以及生活随笔.
 disqus_shortname: 
 reading_time:     true
 words_per_minute: 200
@@ -9,21 +9,21 @@ url:
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           llybood
   avatar:         avatar.jpg
   bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
-  email:          you@email.com
+  email:          llybood@yahoo.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
-  stackexchange:  
-  linkedin:       
-  instagram:      
-  flickr:         
-  tumblr:         
+  #twitter:        
+  #facebook:       
+  github:       http://github.com/llybood  
+  #stackexchange:  
+  #linkedin:       
+  #instagram:      
+  #flickr:         
+  #tumblr:         
   # google plus id, include the '+', eg +mmistakes
-  google_plus:
+  #google_plus:
 
 # Background image to be tiled on all pages
 background: 
